@@ -50,7 +50,7 @@ def analyze_markdown(file_path):
     else:
         print("- No broken links found.")
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     import sys
     if len(sys.argv) != 2:
         print("Usage: python analyzer.py <file.md>")
