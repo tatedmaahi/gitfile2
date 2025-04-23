@@ -1,4 +1,3 @@
-
 # Test File
 
 This is a test with 10 words.
